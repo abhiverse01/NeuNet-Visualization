@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 <body>
     <h1>Neural_Nets_Scratch</h1>
-=======
-# Neural-Nets-Scratch
->>>>>>> 77c40aae479a7c4cccf9a347ad5fbc614ee68d62
-
     <h2>Explanation: Creating an Entire Neural Network from Scratch using numpy and math.</h2>
 
     <h3>NeuralNetwork Class:</h3>
