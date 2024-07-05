@@ -1,5 +1,5 @@
 <body>
-    <h1>Neural_Nets_Scratch</h1>
+    <h1>Neural-Nets-Scratch</h1>
     <h2>Explanation: Creating an Entire Neural Network from Scratch using numpy and math.</h2>
     <h3>NeuralNetwork Class:</h3>
     <ol>
@@ -39,23 +39,23 @@
     </ol>
     <h2>Requirements:</h2>
     <pre>
-        <code>numpy==1.21.0</code>
+    <code>numpy==1.21.0</code>
     </pre>
     <h2>Installation:</h2>
     <p>Clone the repository:</p>
     <pre>
-        <code>git clone https://github.com/yourusername/Neural_Nets_Scratch.git</code>
+    <code>git clone https://github.com/yourusername/Neural_Nets_Scratch.git</code>
     </pre>
     <p>Navigate to the project directory:</p>
     <pre>
-        <code>cd Neural_Nets_Scratch</code>
+    <code>cd Neural_Nets_Scratch</code>
     </pre>
     <p>Install the required dependencies:</p>
     <pre>
-        <code>pip install -r requirements.txt</code>
+    <code>pip install -r requirements.txt</code>
     </pre>
     <h2>License:</h2>
     <pre>
-        <code>MIT License</code>
+    <code>MIT License</code>
     </pre>
 </body>
