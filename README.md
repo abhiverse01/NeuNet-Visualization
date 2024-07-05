@@ -46,7 +46,6 @@
         <li><strong>Backpropagation:</strong> Algorithm for calculating gradients and updating weights based on the error between predicted and actual outputs.</li>
     </ol>
 
-<<<<<<< HEAD
     <h2>Requirements:</h2>
     <pre>
         <code>
@@ -118,10 +117,3 @@
         </code>
     </pre>
 </body>
-=======
-1. Feedforward Network: Information flows in one direction, from input to output, without loops.
-2. Activation Function: Introduces non-linearity, allowing the network to learn complex patterns.
-3. Weights: Parameters that determine the strength of connections between neurons.
-4. Biases: Constants added to neuron activations, influencing their firing thresholds.
-5. Backpropagation: Algorithm for calculating gradients and updating weights based on the error between predicted and actual outputs.
->>>>>>> 77c40aae479a7c4cccf9a347ad5fbc614ee68d62
