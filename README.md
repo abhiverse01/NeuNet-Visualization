@@ -1,4 +1,4 @@
-# Neural_Nets_Scratch
+# Neural-Nets-Scratch
 
 ## Explanation: Creating an Entire Neural Network from Scratch using numpy and math.
 
